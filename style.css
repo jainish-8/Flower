@@ -986,7 +986,6 @@ body {
 .not-loaded * {
   animation-play-state: paused !important;
 }
-
 .tulip-note {
   font-family: 'Playfair Display', serif;
   color: #ffffff;
