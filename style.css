@@ -997,7 +997,7 @@ body {
   bottom: 30px;
   right: 30px;
   width: 320px;
-  text-align: center;
+  text-align: left;
   backdrop-filter: blur(10px);
   box-shadow: 0 6px 25px rgba(0, 0, 0, 0.35);
   animation: slideInUpRight 1.5s ease-out, fadeInNote 2.5s ease-in;
